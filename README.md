@@ -32,7 +32,7 @@ Add AutoLayout to your project via SPM:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/1DanceTech/AutoLayout.git", from: "1.0.0")
+    .package(url: "https://github.com/1DanceTech/AutoLayout.git", from: "main")
 ]
 ```
 
